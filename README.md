@@ -95,3 +95,5 @@ Integrating OpenAI’s GPT models for generative answers
 Multilingual support using spaCy pipelines
 
 Deploying on cloud platforms (Streamlit Cloud, Heroku, etc.)
+![Image](https://github.com/user-attachments/assets/5ddca226-f2b9-4530-b659-34de88f75bdd)
+![Image](https://github.com/user-attachments/assets/6cf89797-e910-4139-a378-1a6c8c0cf6f1)
